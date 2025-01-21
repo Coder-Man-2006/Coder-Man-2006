@@ -36,6 +36,7 @@
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)<br/>
+
 <!--
 **Coder-Man-2006/Coder-Man-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
