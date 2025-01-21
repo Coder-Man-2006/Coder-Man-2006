@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi there, I'm Joseph!
+
+👨‍💻 Software Engineer and Entrepreneur building projects that solve real world problems<br/>
+👨‍🎓 Studying Computer Science BSc at Wilfrid Laurier University in Waterloo, Ontario, Canada<br/>
+🔭 Currently working on an app that helps people find the perfect eyewear in seconds<br/>
+🌱 Learning about medical image segmentation/annotation models and computer vision<br/>
+👯 Looking to collaborate on the MAGDA project, which uses deep learning models to find eyewear<br/>
+
 
 <!--
 **Coder-Man-2006/Coder-Man-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
