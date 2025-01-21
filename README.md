@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Joseph!
 
-👨‍💻 Software Engineer and Entrepreneur building projects that solve real world problems<br/>
-👨‍🎓 Studying Computer Science BSc at Wilfrid Laurier University in Waterloo, Ontario, Canada<br/>
-🔭 Currently working on an app that helps people find the perfect eyewear in seconds<br/>
-🌱 Learning about medical image segmentation/annotation models and computer vision<br/>
-👯 Looking to collaborate on the MAGDA project, which uses deep learning models to find eyewear<br/>
+👨‍💻 **Software Engineer and Entrepreneur** building projects that solve real-world problems  
+👨‍🎓 **Computer Science BSc Student** at Wilfrid Laurier University, Waterloo, Ontario, Canada  
+🔭 **Current Project:** Developing an app to help people find the perfect eyewear in seconds  
+🌱 **Learning:** Medical image segmentation/annotation models and computer vision  
+👯 **Collaborating On:** The MAGDA project, using deep learning to recommend eyewear  
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=Coder-Man-2006&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
